@@ -53,7 +53,7 @@ de Desempe&ntilde;o en Pistas:<br>
   <li><span
  style="color: rgb(31, 35, 40); font-family: -apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,&quot;Noto Sans&quot;,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); display: inline ! important; float: none;"><a
  href="https://drive.google.com/file/d/1J4Drki8ADzva0Ak5t97HbTQ8u9jrTP1S/view?usp=drive_link"
- target="_blank">Apk Evaluador Sigepiros</a> 08 junio
+ target="_blank">Apk Evaluador Sigepiros v2</a> 08 junio
 2025: Aplicaci&oacute;n Androide
 para leer QR de pista y evaluar desempe&ntilde;o del robot en
 pista.&nbsp;</span></li>
